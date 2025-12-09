@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "999f3a0a811d8f59",
+        "id": "26c5e8bfcbf33823",
         "type": "tabs",
         "children": [
           {
-            "id": "eebe4bc2924c770a",
+            "id": "9d3786613f836b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "0. 杂项/重要题目.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "重要题目"
             }
           },
           {
-            "id": "9cadc715c6b0472b",
+            "id": "a789166a6751ab2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
-                "mode": "source",
+                "file": "0. 杂项/重要题目.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "高阶导数求导"
+              "title": "重要题目"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎！.md",
+                "file": "0. 杂项/重要题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎！ 的反向链接列表"
+              "title": "Backlinks for 重要题目"
             }
           },
           {
@@ -174,53 +175,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "publish:发布更改": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eebe4bc2924c770a",
+  "active": "a789166a6751ab2b",
   "lastOpenFiles": [
-    "欢迎！.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/单调性与极值的判别.md",
-    "1-3. 一元函数微分学/3. 应用/1. 几何应用/凹凸性与拐点的判别.md",
+    "1-1. 函数的极限与连续/等价无穷小.md",
+    "1-1. 函数的极限与连续/超实数.md",
+    "0. 杂项/常用公式.md",
+    "0. 杂项/0. 杂项.md",
+    "assets/trig_csc.png",
+    "assets/trig_sec.png",
+    "assets/trig_cot.png",
+    "assets/trig_tan.png",
+    "assets/trig_cos.png",
+    "assets/trig_sin.png",
+    "assets/can2jie.jpg",
+    "assets/d_int_2.png",
+    "assets/d_int_1.png",
+    "assets/bicycle.png",
+    "0. 杂项/应试技巧.md",
+    "0. 杂项/均值不等式.md",
+    "1-1. 函数的极限与连续/洛必达法则.md",
+    "1-1. 函数的极限与连续/邻域.md",
+    "1-1. 函数的极限与连续/两个重要极限.md",
+    "1-2. 数列极限/海涅定理（归结原则）.md",
+    "1-1. 函数的极限与连续/函数极限.md",
+    "1-1. 函数的极限与连续/函数的连续与间断.md",
+    "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
+    "1-3. 一元函数微分学/1. 概念/3-1. 概念.md",
+    "1-3. 一元函数微分学/1. 概念/导数.md",
+    "1-2. 数列极限/单调有界原则.md",
+    "1-2. 数列极限/2. 数列极限.md",
+    "1-1. 函数的极限与连续/无穷小.md",
+    "1-1. 函数的极限与连续/无穷大.md",
     "1-1. 函数的极限与连续/泰勒公式.md",
     "1-3. 一元函数微分学/2. 计算/高阶导数求导.md",
-    "1-1. 函数的极限与连续/洛必达法则.md",
-    "1-4. 一元函数积分学/2. 计算/定积分的计算.md",
-    "1-4. 一元函数积分学/1. 概念/定积分.md",
-    "1-4. 一元函数积分学/3. 应用/1. 几何应用/平面图形的面积.md",
-    "README.md",
-    "2-6. 二次型/正定二次型.md",
-    "assets/sxzss.png",
-    "2-6. 二次型/化二次型为标准形与规范形.md",
-    "2-6. 二次型/二次型的定义与矩阵表示.md",
-    "2-5. 特征值与特征向量/常用矩阵的特征值与特征向量.md",
-    "2-6. 二次型/6. 二次型.md",
-    "assets/linear_trans_def.png",
-    "assets/quad_visual.png",
-    "2-4. 线性方程组/齐次线性方程组.md",
-    "2-4. 线性方程组/两个方程组的公共解.md",
-    "2-4. 线性方程组/非齐次线性方程组.md",
-    "2-5. 特征值与特征向量/矩阵的相似对角化.md",
-    "2-5. 特征值与特征向量/矩阵的相似.md",
+    "2-1. 行列式/1. 行列式.md",
+    "线性代数主目录.md",
     "高等数学主目录.md",
-    "assets/quad_form_def_2.png",
-    "assets/rolle.jpg",
-    "assets/quad_form_def.png",
-    "assets/quad_form_def.png",
-    "2-5. 特征值与特征向量/实对称矩阵的相似对角化.md",
-    "2-2. 矩阵/矩阵的定义及基本运算.md",
-    "2-5. 特征值与特征向量/5. 特征值与特征向量.md",
-    "0. 杂项/重要题目.md",
-    "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
-    "assets/qici4.png",
-    "assets/qici3.png",
-    "assets/qici3.png",
+    "README.md",
+    "欢迎！.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
