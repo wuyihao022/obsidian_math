@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-1. 函数的极限与连续/Cauchy函数方程.md",
+                "file": "0. 杂项/常用不等式.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cauchy函数方程"
+              "title": "常用不等式"
             }
           }
         ]
@@ -173,9 +173,11 @@
   },
   "active": "67627bb165139b54",
   "lastOpenFiles": [
+    "assets/budengshituxiang.png",
+    "assets/Attached_image.png",
+    "1-1. 函数的极限与连续/Cauchy函数方程.md",
     "1-1. 函数的极限与连续/例题.md",
     "1-1. 函数的极限与连续/夹逼准则.md",
-    "1-1. 函数的极限与连续/Cauchy函数方程.md",
     "1-1. 函数的极限与连续/奇偶性.md",
     "1-1. 函数的极限与连续/双曲函数图像.png",
     "1-1. 函数的极限与连续/单调性.md",
@@ -205,11 +207,9 @@
     "assets/trig_sin.png",
     "assets/can2jie.jpg",
     "assets/d_int_2.png",
-    "assets/d_int_1.png",
     "1-1. 函数的极限与连续/洛必达法则.md",
     "1-1. 函数的极限与连续/两个重要极限.md",
     "1-2. 数列极限/海涅定理（归结原则）.md",
-    "1-1. 函数的极限与连续/函数极限.md",
     "2-6. 二次型",
     "2-5. 特征值与特征向量",
     "2-4. 线性方程组",
