@@ -615,6 +615,7 @@ GGiw
 GFZ
 GCCCdm
 GBW
+Geometric
 md
 markdown
 mode
@@ -939,6 +940,8 @@ RbgK
 RBg
 RJCC
 Rgg
+Root
+RMS
 assets
 all
 and
@@ -2936,6 +2939,7 @@ bz
 bjs
 bSOO
 bCX
+budengshituxiang
 This
 TZ
 TToO
@@ -3935,6 +3939,8 @@ Azt
 AIT
 AYP
 Ayyz
+Arithmetic
+AM
 strongly
 simple
 sep
@@ -4235,6 +4241,7 @@ See
 Stj
 SiR
 SFh
+Square
 viewing
 vU
 vf
@@ -5245,6 +5252,7 @@ HJv
 HCo
 Hrp
 HEK
+Harmonic
 yeK
 yT
 yf
@@ -6261,6 +6269,7 @@ Qlv
 QZj
 Qww
 QxT
+Quadratic
 hw
 hhx
 hx
@@ -6688,6 +6697,7 @@ Mzi
 Mf
 MIMM
 MNN
+Mean
 ZO
 ZR
 Zi
