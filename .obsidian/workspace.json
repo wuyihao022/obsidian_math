@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c518a23a4bfe6759",
+        "id": "491f5373b0aa3778",
         "type": "tabs",
         "children": [
           {
-            "id": "67627bb165139b54",
+            "id": "845cc870cd5e2379",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cot",
+                "query": "tag:#重要",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,10 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67627bb165139b54",
+  "active": "845cc870cd5e2379",
   "lastOpenFiles": [
-    "1-1. 函数的极限与连续/例题.md",
     "1-1. 函数的极限与连续/函数极限.md",
+    "1-1. 函数的极限与连续/例题.md",
     "1-1. 函数的极限与连续/1. 函数的极限与连续.md",
     "1-1. 函数的极限与连续/邻域.md",
     "1-1. 函数的极限与连续/两个重要极限.md",
